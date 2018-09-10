@@ -1,0 +1,12 @@
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/bin/Release/netcoreapp2.1/BusinessRules.deps.json
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/bin/Release/netcoreapp2.1/BusinessRules.dll
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/bin/Release/netcoreapp2.1/BusinessRules.pdb
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/bin/Release/netcoreapp2.1/ContractModels.dll
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/bin/Release/netcoreapp2.1/ContractModels.pdb
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/obj/Release/netcoreapp2.1/BusinessRules.csprojAssemblyReference.cache
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/obj/Release/netcoreapp2.1/BusinessRules.csproj.CoreCompileInputs.cache
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/obj/Release/netcoreapp2.1/BusinessRules.AssemblyInfoInputs.cache
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/obj/Release/netcoreapp2.1/BusinessRules.AssemblyInfo.cs
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/obj/Release/netcoreapp2.1/BusinessRules.csproj.CopyComplete
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/obj/Release/netcoreapp2.1/BusinessRules.dll
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/obj/Release/netcoreapp2.1/BusinessRules.pdb

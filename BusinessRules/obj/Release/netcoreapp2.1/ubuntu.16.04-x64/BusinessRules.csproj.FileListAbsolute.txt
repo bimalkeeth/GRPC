@@ -1,0 +1,12 @@
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/bin/Release/netcoreapp2.1/ubuntu.16.04-x64/BusinessRules.deps.json
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/bin/Release/netcoreapp2.1/ubuntu.16.04-x64/BusinessRules.dll
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/bin/Release/netcoreapp2.1/ubuntu.16.04-x64/BusinessRules.pdb
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/bin/Release/netcoreapp2.1/ubuntu.16.04-x64/ContractModels.dll
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/bin/Release/netcoreapp2.1/ubuntu.16.04-x64/ContractModels.pdb
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/obj/Release/netcoreapp2.1/ubuntu.16.04-x64/BusinessRules.csprojAssemblyReference.cache
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/obj/Release/netcoreapp2.1/ubuntu.16.04-x64/BusinessRules.csproj.CoreCompileInputs.cache
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/obj/Release/netcoreapp2.1/ubuntu.16.04-x64/BusinessRules.AssemblyInfoInputs.cache
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/obj/Release/netcoreapp2.1/ubuntu.16.04-x64/BusinessRules.AssemblyInfo.cs
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/obj/Release/netcoreapp2.1/ubuntu.16.04-x64/BusinessRules.csproj.CopyComplete
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/obj/Release/netcoreapp2.1/ubuntu.16.04-x64/BusinessRules.dll
+/home/bimal/RiderProjects/OBDalaries/BusinessRules/obj/Release/netcoreapp2.1/ubuntu.16.04-x64/BusinessRules.pdb
