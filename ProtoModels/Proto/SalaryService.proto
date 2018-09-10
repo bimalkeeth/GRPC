@@ -1,0 +1,30 @@
+syntax="proto3";
+
+package OBSalaries;
+
+option csharp_namespace = "OBSalaries.SalaryService";
+
+message SalarySlipRequest{
+    uint64   Id = 1;
+    string   FirstName=2;
+    string   LastName=3;
+    double   BaseSalary=4;
+    double   SuperRate=5;
+    string   PaymentStartDate=6;
+}
+
+message SalarySlipResponse{
+    uint64   Id = 1;
+    string   Name=2;
+    string   PayPeriod=3;
+    double   GrossIncome=4;
+    double   IncomeTax=5;
+    double   NetIncome=6;
+    double   Super=7;
+}
+//-------------------------------------------
+// Services for Salaries
+//-------------------------------------------
+service SalaryService {
+   rpc ProcessSalary(stream SalarySlipRequest) returns(stream SalarySlipResponse);
+}
