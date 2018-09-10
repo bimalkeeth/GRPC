@@ -1,0 +1,1011 @@
+Id,FirstName,LastName,BaseSalary,PaymentStartDate,SuperRate
+1,Agusti,Lung,119224.2738,August-01-August-31,0.09
+2,M,Test 1,68738.1459,August-01-August-31,0.09
+3,Gary,Holmes,130017.9133,August-01-August-31,0.09
+4,Dinesh,Tawaniya,101875.1338,August-01-August-31,0.09
+5,j1TXWAT,v1TXWAT,101321.9342,August-01-August-31,0.09
+6,Dan,Kaloutsky,20984.2746,August-01-August-31,0.09
+7,j1UINJV,v1UINJV,106955.5751,August-01-August-31,0.09
+8,j1SWEFX,v1SWEFX,129825.0567,August-01-August-31,0.09
+9,Eve,Frank,148258.5631,August-01-August-31,0.09
+10,j1BZUUU,v1BZUUU,171817.6503,August-01-August-31,0.09
+11,Chifley,Cole,72312.5673,August-01-August-31,0.09
+12,Kate ,Klavins,152109.8904,August-01-August-31,0.09
+13,Minjie,Xie,39611.7552,August-01-August-31,0.09
+14,Marlene,Bekker,47729.1096,August-01-August-31,0.09
+15,Malisa,Mnt Admin,101810.2875,August-01-August-31,0.09
+16,Rebecca,Alcott,23864.1136,August-01-August-31,0.09
+17,Mark,Nowalinski,119889.7107,August-01-August-31,0.09
+18,Maddy,Abbott,23856.2176,August-01-August-31,0.09
+19,A,Alice,65611.961,August-01-August-31,0.09
+20,Patrick,van de Sande,76491.1571,August-01-August-31,0.09
+21,Chris,Campbell,167619.9077,August-01-August-31,0.09
+22,j1HEXWI,v1HEXWI,104626.0719,August-01-August-31,0.09
+23,Felina,Coyle,164270.6413,August-01-August-31,0.09
+24,Liam ,Fleming,165474.9958,August-01-August-31,0.09
+25,Karen,Rogers,154563.0601,August-01-August-31,0.09
+26,Wes,Viti,96390.3181,August-01-August-31,0.09
+27,j1EGWDB,v1EGWDB,162262.4151,August-01-August-31,0.09
+28,Arden,Requestor,18141.1264,August-01-August-31,0.09
+29,Test,Time,71918.3917,August-01-August-31,0.09
+30,Integration,Test,125168.584,August-01-August-31,0.09
+31,Soham,Dave,68087.7501,August-01-August-31,0.09
+32,Raston,Nga,108933.0034,August-01-August-31,0.09
+33,j1GYWHX,v1GYWHX,160401.7716,August-01-August-31,0.09
+34,j1OSMOO,v1OSMOO,133209.853,August-01-August-31,0.09
+35,Malisa,Mnt Requestor,166843.9552,August-01-August-31,0.09
+36,Michael,McCosker,92590.2218,August-01-August-31,0.09
+37,CharlieC,Charlie,106419.2483,August-01-August-31,0.09
+38,Indy,Sehra,74325.5812,August-01-August-31,0.09
+39,j1SOTYC,v1SOTYC,34370.1662,August-01-August-31,0.09
+40,Mayuri,Goyani,92874.0923,August-01-August-31,0.09
+41,j1HKQHL,v1HKQHL,19259.9678,August-01-August-31,0.09
+42,l3,17,123677.5672,August-01-August-31,0.09
+43,Ben,Moller,56607.9376,August-01-August-31,0.09
+44,Darren,Burgess,56006.9912,August-01-August-31,0.09
+45,Faiyaz,ahmad,92211.1484,August-01-August-31,0.09
+46,Maitland,Cameron,113034.7732,August-01-August-31,0.09
+47,Belinda,Gavin,108540.426,August-01-August-31,0.09
+48,Patrick ,Madigan,23597.8153,August-01-August-31,0.09
+49,j1VBNIY,v1VBNIY,98367.8034,August-01-August-31,0.09
+50,Michael,McCosker,79045.5763,August-01-August-31,0.09
+51,Charlie,Hart,82124.4762,August-01-August-31,0.09
+52,Low,Key,155485.6569,August-01-August-31,0.09
+53,BobB,Bob,27054.8611,August-01-August-31,0.09
+54,Marlene,Roux,136817.3398,August-01-August-31,0.09
+55,Reniuka,Ranaweera,98922.1206,August-01-August-31,0.09
+56,Sekhar,Vanka,66158.5886,August-01-August-31,0.09
+57,Lego,Mania,178026.586,August-01-August-31,0.09
+58,Dilhan,Rahubadde Kankanange,25657.1692,August-01-August-31,0.09
+59,Danesh,Chacko,62206.0932,August-01-August-31,0.09
+60,Brad,Campbell,54058.9635,August-01-August-31,0.09
+61,D,Burgess,65676.5426,August-01-August-31,0.09
+62,Iron,Man,148205.8275,August-01-August-31,0.09
+63,j1ZBCXT,v1ZBCXT,39999.5148,August-01-August-31,0.09
+64,j1OPASW,v1OPASW,61380.0965,August-01-August-31,0.09
+65,j1AWUNN,v1AWUNN,168901.9431,August-01-August-31,0.09
+66,James,Esson,156369.431,August-01-August-31,0.09
+67,j1IFTNJ,v1IFTNJ,95141.3304,August-01-August-31,0.09
+68,j1OLFBY,v1OLFBY,150598.3643,August-01-August-31,0.09
+69,E,Eve,125567.8353,August-01-August-31,0.09
+70,nbrent+SSO@assetic.com,nbrent+SSO@assetic.com,158044.0886,August-01-August-31,0.09
+71,Siyin,Yand,71516.942,August-01-August-31,0.09
+72,Jerry,Chang,27452.449,August-01-August-31,0.09
+73,Bridget,Jackson,66711.4243,August-01-August-31,0.09
+74,Supervisor,Mntc,71199.7792,August-01-August-31,0.09
+75,Sarah,Kimber,137864.6283,August-01-August-31,0.09
+76,Malisa,Mnt WO Gatekeeper,133723.8089,August-01-August-31,0.09
+77,Alice,Bob,75025.1645,August-01-August-31,0.09
+78,Maintenance,Technician,117954.4008,August-01-August-31,0.09
+79,Carol,Dave,22696.5153,August-01-August-31,0.09
+80,j1RKNFQ,v1RKNFQ,65619.3791,August-01-August-31,0.09
+81,Aquilina,Gopiao,80007.3544,August-01-August-31,0.09
+82,Chris,Komodromos,23178.64,August-01-August-31,0.09
+83,Suzanne,Sanders,19871.1416,August-01-August-31,0.09
+84,Andrew,Cox,173819.7932,August-01-August-31,0.09
+85,Chris,Komodromos,143485.5459,August-01-August-31,0.09
+86,Sekhar,Mnt,177968.3552,August-01-August-31,0.09
+87,RenukaDC,Ranaweera,117385.143,August-01-August-31,0.09
+88,Integration,Test,35020.6544,August-01-August-31,0.09
+89,Nicola,Daaboul,128947.8479,August-01-August-31,0.09
+90,Joel,Brakey,35677.2815,August-01-August-31,0.09
+91,j1GLXDN,v1GLXDN,97542.8686,August-01-August-31,0.09
+92,Tony ,Rogers,38682.5034,August-01-August-31,0.09
+93,Lynda,Curtis ,44783.9163,August-01-August-31,0.09
+94,deepthi,kotte,89872.0763,August-01-August-31,0.09
+95,Malisa,Mnt WR Gatekeeper,135008.6375,August-01-August-31,0.09
+96,j1EHJHH,v1EHJHH,63426.9635,August-01-August-31,0.09
+97,j1BWLEI,v1BWLEI,56108.9101,August-01-August-31,0.09
+98,Russell,Ormston,72263.665,August-01-August-31,0.09
+99,Andy,Boulton,174991.5996,August-01-August-31,0.09
+100,Le,Nguyen,154167.0079,August-01-August-31,0.09
+101,Kevin,Wilton,65860.2459,August-01-August-31,0.09
+102,Minh,Api Test,172800.2106,August-01-August-31,0.09
+103,Data,Collector,162420.3203,August-01-August-31,0.09
+104,chifley,cole,113700.9747,August-01-August-31,0.09
+105,Peter,Awad,63243.9174,August-01-August-31,0.09
+106,Ursula,Gleeson,119116.6681,August-01-August-31,0.09
+107,Kevin,Wilton Alpaca,63851.5934,August-01-August-31,0.09
+108,Tristan,Rogers,105907.9674,August-01-August-31,0.09
+109,Brad,Campbell,157985.0621,August-01-August-31,0.09
+110,Tim,Provis,130201.4129,August-01-August-31,0.09
+111,Team,ASMP,159051.8835,August-01-August-31,0.09
+112,Tristan,Rogers,62655.1837,August-01-August-31,0.09
+113,Daria,Roschupkin,142120.2732,August-01-August-31,0.09
+114,Danesh,Chacko,18635.8196,August-01-August-31,0.09
+115,Jerry123,Chang,134818.2833,August-01-August-31,0.09
+116,Malisa,Mnt Supervisor,114183.963,August-01-August-31,0.09
+117,Isy,N,148464.9699,August-01-August-31,0.09
+118,Darren,B,57772.9655,August-01-August-31,0.09
+119,Tomasz,Kasprowicz,149469.9228,August-01-August-31,0.09
+120,Craig,Searle,70030.7225,August-01-August-31,0.09
+121,Peter,Simcisko,45743.8491,August-01-August-31,0.09
+122,Krunal,Vansadia,162627.0829,August-01-August-31,0.09
+123,j1VOPAT,v1VOPAT,171903.8722,August-01-August-31,0.09
+124,Wesley,Viti,29638.1173,August-01-August-31,0.09
+125,Kieran,Shirey,100478.975,August-01-August-31,0.09
+126,Malorie,Kincaid,71480.528,August-01-August-31,0.09
+127,Jerry,Chang,37965.72,August-01-August-31,0.09
+128,Mobile,Test,119387.0211,August-01-August-31,0.09
+129,Simon,Goss,141037.9503,August-01-August-31,0.09
+130,Chamara,Narangoda,167028.6932,August-01-August-31,0.09
+131,j1LIMAH,v1LIMAH,70029.6199,August-01-August-31,0.09
+132,charlie,hart,155062.0251,August-01-August-31,0.09
+133,Josh ,Coom,61221.2707,August-01-August-31,0.09
+134,Data,Collector,146920.2833,August-01-August-31,0.09
+135,not,confirmed,46937.6095,August-01-August-31,0.09
+136,Lawrie,George,99927.2025,August-01-August-31,0.09
+137,Grace ,Madigan,178823.1889,August-01-August-31,0.09
+138,j1WHVZJ,v1WHVZJ,90334.3422,August-01-August-31,0.09
+139,Arden,Yang,59202.1491,August-01-August-31,0.09
+140,Malisa,Mnt Scheduler,169007.7238,August-01-August-31,0.09
+141,James,Burns,163432.1766,August-01-August-31,0.09
+142,test,tash,130137.7167,August-01-August-31,0.09
+143,Sean,Ghotbi,142392.0587,August-01-August-31,0.09
+144,Natasha,Test,141547.1482,August-01-August-31,0.09
+145,Ashay,Prabhu,100559.5699,August-01-August-31,0.09
+146,Arden,Yang,60156.41,August-01-August-31,0.09
+147,j1XDSYP,v1XDSYP,143103.3454,August-01-August-31,0.09
+148,not,confirmed,31047.5018,August-01-August-31,0.09
+149,David,Hobson,31927.4779,August-01-August-31,0.09
+150,David,Robinson,48494.8889,August-01-August-31,0.09
+151,no,assets,128692.016,August-01-August-31,0.09
+152,j1IWRKS,v1IWRKS,155975.4183,August-01-August-31,0.09
+153,Jennifer,Balsara,51801.0484,August-01-August-31,0.09
+154,j1LCLBZ,v1LCLBZ,97078.9922,August-01-August-31,0.09
+155,j1TPCNO,v1TPCNO,149991.8209,August-01-August-31,0.09
+156,Malisa,Ples,116722.1325,August-01-August-31,0.09
+157,Stewart,Tremain,115635.2051,August-01-August-31,0.09
+158,Malisa,Mnt Asset Engineer,48009.633,August-01-August-31,0.09
+159,Nelson,Kincaid,37142.5545,August-01-August-31,0.09
+160,Blah,Blah,23683.8783,August-01-August-31,0.09
+161,Brad,Lyons,150991.7334,August-01-August-31,0.09
+162,j1ICSNN,v1ICSNN,179907.0367,August-01-August-31,0.09
+163,Malisa,Mnt Planner,104559.9885,August-01-August-31,0.09
+164,j1BMADT,v1BMADT,127078.8372,August-01-August-31,0.09
+165,Lucy,Risbey,141714.2257,August-01-August-31,0.09
+166,Assetic,Support,147334.6219,August-01-August-31,0.09
+167,Bhavin,Shah,131530.4374,August-01-August-31,0.09
+168,David,Robinson,35648.3263,August-01-August-31,0.09
+169,Tanri,Suryati,89650.3242,August-01-August-31,0.09
+170,Malisa,Mnt Manager,161306.6469,August-01-August-31,0.09
+171,j1SRBEZ,v1SRBEZ,33582.2672,August-01-August-31,0.09
+172,Dianne,Mackenzie,151991.4001,August-01-August-31,0.09
+173,Ali,Rizvi,155210.2038,August-01-August-31,0.09
+174,Rod,Lovely,140076.8239,August-01-August-31,0.09
+175,Bimal,Kaluarachchi,54753.5131,August-01-August-31,0.09
+176,Marc,Hoare,159537.0988,August-01-August-31,0.09
+177,Emma ,Tipple,129424.9594,August-01-August-31,0.09
+178,Integration,Integration,150513.5057,August-01-August-31,0.09
+179,Josh,Schwarz,22292.6554,August-01-August-31,0.09
+180,Malisa,Mnt Coordinator,127922.7646,August-01-August-31,0.09
+181,Peter,Silva,68735.862,August-01-August-31,0.09
+182,j1WTFVR,v1WTFVR,103911.0211,August-01-August-31,0.09
+183,Rohan,Robertson,133347.5246,August-01-August-31,0.09
+184,Ming Zhi,Lei,175004.5645,August-01-August-31,0.09
+185,Lisa,Mulcahy,132980.2538,August-01-August-31,0.09
+186,Robert,Turner,121887.5804,August-01-August-31,0.09
+187,Z,Alice,30497.1456,August-01-August-31,0.09
+188,Kevin,Ward,92822.9916,August-01-August-31,0.09
+189,j1QUBSF,v1QUBSF,30623.5264,August-01-August-31,0.09
+190,j1BBHSX,v1BBHSX,18648.6623,August-01-August-31,0.09
+191,Avesh,Maharaj,145372.7371,August-01-August-31,0.09
+192,Rosa ,Grez ,166917.7037,August-01-August-31,0.09
+193,James,Foo,56470.3122,August-01-August-31,0.09
+194,Janna,de Groot,87598.4548,August-01-August-31,0.09
+195,Glenn,Angus,88581.3423,August-01-August-31,0.09
+196,Matthew,Riordan,162111.3523,August-01-August-31,0.09
+197,Sam,Truong,40812.7394,August-01-August-31,0.09
+198,Tony,Blefari,23729.6453,August-01-August-31,0.09
+199,Ryen,Tarbet,140210.0132,August-01-August-31,0.09
+200,Catherine,Mallon,125861.1349,August-01-August-31,0.09
+201,Natasha,Brent,28675.6399,August-01-August-31,0.09
+202,Luke ,Davies,71794.7998,August-01-August-31,0.09
+203,Nelson,Kincaid,92947.0845,August-01-August-31,0.09
+204,Andrew,Cox,69351.0279,August-01-August-31,0.09
+205,Kevin,Wilton (maint),49913.8912,August-01-August-31,0.09
+206,ban,Nawa,23516.3771,August-01-August-31,0.09
+207,j1BFSNQ,v1BFSNQ,111840.2171,August-01-August-31,0.09
+208,ben,test,146651.9591,August-01-August-31,0.09
+209,j1PALLT,v1PALLT,55739.149,August-01-August-31,0.09
+210,Michael,M,144739.8727,August-01-August-31,0.09
+211,j1JUUJK,v1JUUJK,52481.9216,August-01-August-31,0.09
+212,test,runner,134189.995,August-01-August-31,0.09
+213,Mark,Nowalinski,171504.2149,August-01-August-31,0.09
+214,Chints,Accounting,112951.0946,August-01-August-31,0.09
+215,Wayne,Huggard,32242.8333,August-01-August-31,0.09
+216,David,Simpson,128360.8876,August-01-August-31,0.09
+217,j1XZTIN,v1XZTIN,41075.9432,August-01-August-31,0.09
+218,Rebecca,Palmer,126297.0581,August-01-August-31,0.09
+219,Kunbo,Mao,166257.466,August-01-August-31,0.09
+220,B,Alice,110396.1608,August-01-August-31,0.09
+221,RenukaAO,Ranaweera,35208.4109,August-01-August-31,0.09
+222,David,Howard,150853.577,August-01-August-31,0.09
+223,Coordinator,Mntc,144642.6575,August-01-August-31,0.09
+224,Deepthi,Kotte,90652.5613,August-01-August-31,0.09
+225,Renuka,Ranaweera,163334.8392,August-01-August-31,0.09
+226,Malisa,Plesa,40716.5168,August-01-August-31,0.09
+227,Tushari,de Silva,19578.0716,August-01-August-31,0.09
+228,j1WSKGP,v1WSKGP,119740.8123,August-01-August-31,0.09
+229,j1FIGYT,v1FIGYT,35969.8519,August-01-August-31,0.09
+230,j1FXYSI,v1FXYSI,126626.8273,August-01-August-31,0.09
+231,Tai,Vu,21224.586,August-01-August-31,0.09
+232,Malisa,Mnt Technician,32242.4531,August-01-August-31,0.09
+233,j1GOAYT,v1GOAYT,79538.5124,August-01-August-31,0.09
+234,Chintan,Shah,120965.2076,August-01-August-31,0.09
+235,Sekhar,Vanka,24210.5058,August-01-August-31,0.09
+236,j1JGFSN,v1JGFSN,64156.9114,August-01-August-31,0.09
+237,Tomasz,Imanski-Kasprowicz,68153.0445,August-01-August-31,0.09
+238,DaveD,Dave,130294.4935,August-01-August-31,0.09
+239,not,confirmed,105013.3386,August-01-August-31,0.09
+240,Vivian,Chi,116183.2177,August-01-August-31,0.09
+241,Luke,McCosker,85876.0776,August-01-August-31,0.09
+242,Andrew,Wesley,62830.7398,August-01-August-31,0.09
+243,Team,AAA,38525.4714,August-01-August-31,0.09
+244,j1SHFWB,v1SHFWB,148135.1423,August-01-August-31,0.09
+245,Jan,Van Den Driesen,121099.3025,August-01-August-31,0.09
+246,Dazza,Burgo1,143091.0906,August-01-August-31,0.09
+247,j1NYURD,v1NYURD,172157.5505,August-01-August-31,0.09
+248,Natasha,Brent,89514.4857,August-01-August-31,0.09
+249,SAML,SAML,75099.7821,August-01-August-31,0.09
+250,Agusti,Lung,145745.2983,August-01-August-31,0.09
+251,M,Test 1,173621.1428,August-01-August-31,0.09
+252,Gary,Holmes,88869.8239,August-01-August-31,0.09
+253,Dinesh,Tawaniya,67485.696,August-01-August-31,0.09
+254,j1TXWAT,v1TXWAT,52819.0135,August-01-August-31,0.09
+255,Dan,Kaloutsky,43637.9844,August-01-August-31,0.09
+256,j1UINJV,v1UINJV,41732.8864,August-01-August-31,0.09
+257,j1SWEFX,v1SWEFX,59750.4838,August-01-August-31,0.09
+258,Eve,Frank,155553.7646,August-01-August-31,0.09
+259,j1BZUUU,v1BZUUU,94517.3767,August-01-August-31,0.09
+260,Chifley,Cole,149925.5946,August-01-August-31,0.09
+261,Kate ,Klavins,124075.8479,August-01-August-31,0.09
+262,Minjie,Xie,152602.4609,August-01-August-31,0.09
+263,Marlene,Bekker,48784.7656,August-01-August-31,0.09
+264,Malisa,Mnt Admin,92116.4504,August-01-August-31,0.09
+265,Rebecca,Alcott,134227.9599,August-01-August-31,0.09
+266,Mark,Nowalinski,52790.4535,August-01-August-31,0.09
+267,Maddy,Abbott,167268.3925,August-01-August-31,0.09
+268,A,Alice,173970.6072,August-01-August-31,0.09
+269,Patrick,van de Sande,26047.8636,August-01-August-31,0.09
+270,Chris,Campbell,76327.5011,August-01-August-31,0.09
+271,j1HEXWI,v1HEXWI,123493.9199,August-01-August-31,0.09
+272,Felina,Coyle,46487.1011,August-01-August-31,0.09
+273,Liam ,Fleming,167953.7508,August-01-August-31,0.09
+274,Karen,Rogers,34307.4555,August-01-August-31,0.09
+275,Wes,Viti,135676.0301,August-01-August-31,0.09
+276,j1EGWDB,v1EGWDB,71457.7888,August-01-August-31,0.09
+277,Arden,Requestor,94260.8591,August-01-August-31,0.09
+278,Test,Time,76930.9337,August-01-August-31,0.09
+279,Integration,Test,83872.0964,August-01-August-31,0.09
+280,Soham,Dave,170567.686,August-01-August-31,0.09
+281,Raston,Nga,97222.1458,August-01-August-31,0.09
+282,j1GYWHX,v1GYWHX,118407.6759,August-01-August-31,0.09
+283,j1OSMOO,v1OSMOO,120371.9471,August-01-August-31,0.09
+284,Malisa,Mnt Requestor,66636.7127,August-01-August-31,0.09
+285,Michael,McCosker,116067.7272,August-01-August-31,0.09
+286,CharlieC,Charlie,38428.503,August-01-August-31,0.09
+287,Indy,Sehra,149939.3382,August-01-August-31,0.09
+288,j1SOTYC,v1SOTYC,130411.187,August-01-August-31,0.09
+289,Mayuri,Goyani,22237.9254,August-01-August-31,0.09
+290,j1HKQHL,v1HKQHL,25956.0711,August-01-August-31,0.09
+291,l3,17,45066.5841,August-01-August-31,0.09
+292,Ben,Moller,129464.712,August-01-August-31,0.09
+293,Darren,Burgess,170123.8131,August-01-August-31,0.09
+294,Faiyaz,ahmad,120224.9342,August-01-August-31,0.09
+295,Maitland,Cameron,72753.2366,August-01-August-31,0.09
+296,Belinda,Gavin,147091.3853,August-01-August-31,0.09
+297,Patrick ,Madigan,175197.2219,August-01-August-31,0.09
+298,j1VBNIY,v1VBNIY,92711.9584,August-01-August-31,0.09
+299,Michael,McCosker,81968.1315,August-01-August-31,0.09
+300,Charlie,Hart,113704.7873,August-01-August-31,0.09
+301,Low,Key,142619.5467,August-01-August-31,0.09
+302,BobB,Bob,29983.3768,August-01-August-31,0.09
+303,Marlene,Roux,28058.2487,August-01-August-31,0.09
+304,Reniuka,Ranaweera,32341.1182,August-01-August-31,0.09
+305,Sekhar,Vanka,59530.8499,August-01-August-31,0.09
+306,Lego,Mania,20630.8999,August-01-August-31,0.09
+307,Dilhan,Rahubadde Kankanange,68561.9547,August-01-August-31,0.09
+308,Danesh,Chacko,100917.0787,August-01-August-31,0.09
+309,Brad,Campbell,118899.5344,August-01-August-31,0.09
+310,D,Burgess,111746.4411,August-01-August-31,0.09
+311,Iron,Man,22033.607,August-01-August-31,0.09
+312,j1ZBCXT,v1ZBCXT,80928.7167,August-01-August-31,0.09
+313,j1OPASW,v1OPASW,158542.7674,August-01-August-31,0.09
+314,j1AWUNN,v1AWUNN,45927.6919,August-01-August-31,0.09
+315,James,Esson,60010.1625,August-01-August-31,0.09
+316,j1IFTNJ,v1IFTNJ,144267.7416,August-01-August-31,0.09
+317,j1OLFBY,v1OLFBY,37308.2256,August-01-August-31,0.09
+318,E,Eve,59737.9079,August-01-August-31,0.09
+319,nbrent+SSO@assetic.com,nbrent+SSO@assetic.com,168764.868,August-01-August-31,0.09
+320,Siyin,Yand,160610.621,August-01-August-31,0.09
+321,Jerry,Chang,116758.5061,August-01-August-31,0.09
+322,Bridget,Jackson,83960.6723,August-01-August-31,0.09
+323,Supervisor,Mntc,51527.8483,August-01-August-31,0.09
+324,Sarah,Kimber,149757.2298,August-01-August-31,0.09
+325,Malisa,Mnt WO Gatekeeper,90202.6089,August-01-August-31,0.09
+326,Alice,Bob,145741.36,August-01-August-31,0.09
+327,Maintenance,Technician,116098.9786,August-01-August-31,0.09
+328,Carol,Dave,125270.8176,August-01-August-31,0.09
+329,j1RKNFQ,v1RKNFQ,98057.1574,August-01-August-31,0.09
+330,Aquilina,Gopiao,96473.3392,August-01-August-31,0.09
+331,Chris,Komodromos,170195.2288,August-01-August-31,0.09
+332,Suzanne,Sanders,57556.1313,August-01-August-31,0.09
+333,Andrew,Cox,83194.975,August-01-August-31,0.09
+334,Chris,Komodromos,63306.4863,August-01-August-31,0.09
+335,Sekhar,Mnt,48947.5116,August-01-August-31,0.09
+336,RenukaDC,Ranaweera,36818.1037,August-01-August-31,0.09
+337,Integration,Test,19247.989,August-01-August-31,0.09
+338,Nicola,Daaboul,129785.6388,August-01-August-31,0.09
+339,Joel,Brakey,87184.2319,August-01-August-31,0.09
+340,j1GLXDN,v1GLXDN,28564.2482,August-01-August-31,0.09
+341,Tony ,Rogers,25268.5504,August-01-August-31,0.09
+342,Lynda,Curtis ,22650.012,August-01-August-31,0.09
+343,deepthi,kotte,19444.4142,August-01-August-31,0.09
+344,Malisa,Mnt WR Gatekeeper,173272.0397,August-01-August-31,0.09
+345,j1EHJHH,v1EHJHH,142026.9608,August-01-August-31,0.09
+346,j1BWLEI,v1BWLEI,172318.6898,August-01-August-31,0.09
+347,Russell,Ormston,93512.5718,August-01-August-31,0.09
+348,Andy,Boulton,94606.7944,August-01-August-31,0.09
+349,Le,Nguyen,174496.2617,August-01-August-31,0.09
+350,Kevin,Wilton,84660.9304,August-01-August-31,0.09
+351,Minh,Api Test,43815.8719,August-01-August-31,0.09
+352,Data,Collector,109096.5733,August-01-August-31,0.09
+353,chifley,cole,72035.2555,August-01-August-31,0.09
+354,Peter,Awad,176886.5629,August-01-August-31,0.09
+355,Ursula,Gleeson,164327.0529,August-01-August-31,0.09
+356,Kevin,Wilton Alpaca,110975.5806,August-01-August-31,0.09
+357,Tristan,Rogers,43896.7493,August-01-August-31,0.09
+358,Brad,Campbell,30557.0096,August-01-August-31,0.09
+359,Tim,Provis,165094.8052,August-01-August-31,0.09
+360,Team,ASMP,67803.0021,August-01-August-31,0.09
+361,Tristan,Rogers,149730.5999,August-01-August-31,0.09
+362,Daria,Roschupkin,41243.9981,August-01-August-31,0.09
+363,Danesh,Chacko,63028.1959,August-01-August-31,0.09
+364,Jerry123,Chang,173408.9902,August-01-August-31,0.09
+365,Malisa,Mnt Supervisor,173960.3681,August-01-August-31,0.09
+366,Isy,N,169574.8752,August-01-August-31,0.09
+367,Darren,B,145993.2765,August-01-August-31,0.09
+368,Tomasz,Kasprowicz,41241.7617,August-01-August-31,0.09
+369,Craig,Searle,74228.9841,August-01-August-31,0.09
+370,Peter,Simcisko,67419.6406,August-01-August-31,0.09
+371,Krunal,Vansadia,96411.2554,August-01-August-31,0.09
+372,j1VOPAT,v1VOPAT,99797.3601,August-01-August-31,0.09
+373,Wesley,Viti,29753.0395,August-01-August-31,0.09
+374,Kieran,Shirey,155373.1219,August-01-August-31,0.09
+375,Malorie,Kincaid,21606.4963,August-01-August-31,0.09
+376,Jerry,Chang,109913.1206,August-01-August-31,0.09
+377,Mobile,Test,142746.1191,August-01-August-31,0.09
+378,Simon,Goss,41991.2385,August-01-August-31,0.09
+379,Chamara,Narangoda,87717.8402,August-01-August-31,0.09
+380,j1LIMAH,v1LIMAH,132615.4907,August-01-August-31,0.09
+381,charlie,hart,57923.9377,August-01-August-31,0.09
+382,Josh ,Coom,35773.2214,August-01-August-31,0.09
+383,Data,Collector,149094.2987,August-01-August-31,0.09
+384,not,confirmed,134151.8345,August-01-August-31,0.09
+385,Lawrie,George,43476.2813,August-01-August-31,0.09
+386,Grace ,Madigan,120925.9079,August-01-August-31,0.09
+387,j1WHVZJ,v1WHVZJ,132200.7005,August-01-August-31,0.09
+388,Arden,Yang,118225.784,August-01-August-31,0.09
+389,Malisa,Mnt Scheduler,176526.8235,August-01-August-31,0.09
+390,James,Burns,23956.7702,August-01-August-31,0.09
+391,test,tash,58203.3856,August-01-August-31,0.09
+392,Sean,Ghotbi,39146.6225,August-01-August-31,0.09
+393,Natasha,Test,165122.9606,August-01-August-31,0.09
+394,Ashay,Prabhu,42174.9404,August-01-August-31,0.09
+395,Arden,Yang,21505.8253,August-01-August-31,0.09
+396,j1XDSYP,v1XDSYP,125004.3102,August-01-August-31,0.09
+397,not,confirmed,56504.08,August-01-August-31,0.09
+398,David,Hobson,51507.4743,August-01-August-31,0.09
+399,David,Robinson,70025.1365,August-01-August-31,0.09
+400,no,assets,177603.2648,August-01-August-31,0.09
+401,j1IWRKS,v1IWRKS,173940.9194,August-01-August-31,0.09
+402,Jennifer,Balsara,156894.8076,August-01-August-31,0.09
+403,j1LCLBZ,v1LCLBZ,82651.2846,August-01-August-31,0.09
+404,j1TPCNO,v1TPCNO,86572.0052,August-01-August-31,0.09
+405,Malisa,Ples,166906.1771,August-01-August-31,0.09
+406,Stewart,Tremain,70814.8749,August-01-August-31,0.09
+407,Malisa,Mnt Asset Engineer,159355.8481,August-01-August-31,0.09
+408,Nelson,Kincaid,80334.6208,August-01-August-31,0.09
+409,Blah,Blah,67605.5646,August-01-August-31,0.09
+410,Brad,Lyons,79023.9655,August-01-August-31,0.09
+411,j1ICSNN,v1ICSNN,174303.1389,August-01-August-31,0.09
+412,Malisa,Mnt Planner,130443.803,August-01-August-31,0.09
+413,j1BMADT,v1BMADT,111309.6032,August-01-August-31,0.09
+414,Lucy,Risbey,147216.612,August-01-August-31,0.09
+415,Assetic,Support,60154.2554,August-01-August-31,0.09
+416,Bhavin,Shah,165121.446,August-01-August-31,0.09
+417,David,Robinson,141144.4686,August-01-August-31,0.09
+418,Tanri,Suryati,30358.0099,August-01-August-31,0.09
+419,Malisa,Mnt Manager,34356.6489,August-01-August-31,0.09
+420,j1SRBEZ,v1SRBEZ,62709.2198,August-01-August-31,0.09
+421,Dianne,Mackenzie,30476.1573,August-01-August-31,0.09
+422,Ali,Rizvi,108253.132,August-01-August-31,0.09
+423,Rod,Lovely,107837.1931,August-01-August-31,0.09
+424,Bimal,Kaluarachchi,34426.5745,August-01-August-31,0.09
+425,Marc,Hoare,154621.298,August-01-August-31,0.09
+426,Emma ,Tipple,165826.7716,August-01-August-31,0.09
+427,Integration,Integration,23269.9692,August-01-August-31,0.09
+428,Josh,Schwarz,86869.5358,August-01-August-31,0.09
+429,Malisa,Mnt Coordinator,22537.7767,August-01-August-31,0.09
+430,Peter,Silva,158080.2809,August-01-August-31,0.09
+431,j1WTFVR,v1WTFVR,56788.0795,August-01-August-31,0.09
+432,Rohan,Robertson,115699.5596,August-01-August-31,0.09
+433,Ming Zhi,Lei,66133.5647,August-01-August-31,0.09
+434,Lisa,Mulcahy,127569.1496,August-01-August-31,0.09
+435,Robert,Turner,97445.0589,August-01-August-31,0.09
+436,Z,Alice,86517.8507,August-01-August-31,0.09
+437,Kevin,Ward,122254.0816,August-01-August-31,0.09
+438,j1QUBSF,v1QUBSF,171716.8609,August-01-August-31,0.09
+439,j1BBHSX,v1BBHSX,149822.0645,August-01-August-31,0.09
+440,Avesh,Maharaj,53959.7451,August-01-August-31,0.09
+441,Rosa ,Grez ,126332.5368,August-01-August-31,0.09
+442,James,Foo,127783.4538,August-01-August-31,0.09
+443,Janna,de Groot,79919.6636,August-01-August-31,0.09
+444,Glenn,Angus,160247.9615,August-01-August-31,0.09
+445,Matthew,Riordan,57480.8218,August-01-August-31,0.09
+446,Sam,Truong,112660.2294,August-01-August-31,0.09
+447,Tony,Blefari,48858.6866,August-01-August-31,0.09
+448,Ryen,Tarbet,50312.7498,August-01-August-31,0.09
+449,Catherine,Mallon,86987.6941,August-01-August-31,0.09
+450,Natasha,Brent,104000.226,August-01-August-31,0.09
+451,Luke ,Davies,79038.0527,August-01-August-31,0.09
+452,Nelson,Kincaid,65189.5903,August-01-August-31,0.09
+453,Andrew,Cox,70833.7987,August-01-August-31,0.09
+454,Kevin,Wilton (maint),140600.2276,August-01-August-31,0.09
+455,ban,Nawa,148499.7466,August-01-August-31,0.09
+456,j1BFSNQ,v1BFSNQ,140698.0552,August-01-August-31,0.09
+457,ben,test,77991.0411,August-01-August-31,0.09
+458,j1PALLT,v1PALLT,111861.0451,August-01-August-31,0.09
+459,Michael,M,145332.1073,August-01-August-31,0.09
+460,j1JUUJK,v1JUUJK,49077.406,August-01-August-31,0.09
+461,test,runner,115390.7131,August-01-August-31,0.09
+462,Mark,Nowalinski,87721.3524,August-01-August-31,0.09
+463,Chints,Accounting,74434.6279,August-01-August-31,0.09
+464,Wayne,Huggard,91009.087,August-01-August-31,0.09
+465,David,Simpson,51741.5565,August-01-August-31,0.09
+466,j1XZTIN,v1XZTIN,129680.5262,August-01-August-31,0.09
+467,Rebecca,Palmer,151177.9667,August-01-August-31,0.09
+468,Kunbo,Mao,24848.2596,August-01-August-31,0.09
+469,B,Alice,138707.4032,August-01-August-31,0.09
+470,RenukaAO,Ranaweera,114992.242,August-01-August-31,0.09
+471,David,Howard,140839.0052,August-01-August-31,0.09
+472,Coordinator,Mntc,179218.3052,August-01-August-31,0.09
+473,Deepthi,Kotte,131574.5155,August-01-August-31,0.09
+474,Renuka,Ranaweera,102217.6667,August-01-August-31,0.09
+475,Malisa,Plesa,98364.792,August-01-August-31,0.09
+476,Tushari,de Silva,167170.9649,August-01-August-31,0.09
+477,j1WSKGP,v1WSKGP,36760.4533,August-01-August-31,0.09
+478,j1FIGYT,v1FIGYT,150289.377,August-01-August-31,0.09
+479,j1FXYSI,v1FXYSI,137165.5301,August-01-August-31,0.09
+480,Tai,Vu,54959.5245,August-01-August-31,0.09
+481,Malisa,Mnt Technician,169301.0372,August-01-August-31,0.09
+482,j1GOAYT,v1GOAYT,177626.6174,August-01-August-31,0.09
+483,Chintan,Shah,38229.9805,August-01-August-31,0.09
+484,Sekhar,Vanka,126270.0553,August-01-August-31,0.09
+485,j1JGFSN,v1JGFSN,174660.3398,August-01-August-31,0.09
+486,Tomasz,Imanski-Kasprowicz,152491.538,August-01-August-31,0.09
+487,DaveD,Dave,58476.6756,August-01-August-31,0.09
+488,not,confirmed,140908.7692,August-01-August-31,0.09
+489,Vivian,Chi,25113.824,August-01-August-31,0.09
+490,Luke,McCosker,170842.8173,August-01-August-31,0.09
+491,Andrew,Wesley,112872.6196,August-01-August-31,0.09
+492,Team,AAA,33834.6512,August-01-August-31,0.09
+493,j1SHFWB,v1SHFWB,136555.4019,August-01-August-31,0.09
+494,Jan,Van Den Driesen,77273.0609,August-01-August-31,0.09
+495,Dazza,Burgo1,120699.1037,August-01-August-31,0.09
+496,j1NYURD,v1NYURD,29676.341,August-01-August-31,0.09
+497,Natasha,Brent,92284.3989,August-01-August-31,0.09
+498,SAML,SAML,30392.9764,August-01-August-31,0.09
+250,Agusti,Lung,145745.2983,August-01-August-31,0.09
+251,M,Test 1,173621.1428,August-01-August-31,0.09
+252,Gary,Holmes,88869.8239,August-01-August-31,0.09
+253,Dinesh,Tawaniya,67485.696,August-01-August-31,0.09
+254,j1TXWAT,v1TXWAT,52819.0135,August-01-August-31,0.09
+255,Dan,Kaloutsky,43637.9844,August-01-August-31,0.09
+256,j1UINJV,v1UINJV,41732.8864,August-01-August-31,0.09
+257,j1SWEFX,v1SWEFX,59750.4838,August-01-August-31,0.09
+258,Eve,Frank,155553.7646,August-01-August-31,0.09
+259,j1BZUUU,v1BZUUU,94517.3767,August-01-August-31,0.09
+260,Chifley,Cole,149925.5946,August-01-August-31,0.09
+261,Kate ,Klavins,124075.8479,August-01-August-31,0.09
+262,Minjie,Xie,152602.4609,August-01-August-31,0.09
+263,Marlene,Bekker,48784.7656,August-01-August-31,0.09
+264,Malisa,Mnt Admin,92116.4504,August-01-August-31,0.09
+265,Rebecca,Alcott,134227.9599,August-01-August-31,0.09
+266,Mark,Nowalinski,52790.4535,August-01-August-31,0.09
+267,Maddy,Abbott,167268.3925,August-01-August-31,0.09
+268,A,Alice,173970.6072,August-01-August-31,0.09
+269,Patrick,van de Sande,26047.8636,August-01-August-31,0.09
+270,Chris,Campbell,76327.5011,August-01-August-31,0.09
+271,j1HEXWI,v1HEXWI,123493.9199,August-01-August-31,0.09
+272,Felina,Coyle,46487.1011,August-01-August-31,0.09
+273,Liam ,Fleming,167953.7508,August-01-August-31,0.09
+274,Karen,Rogers,34307.4555,August-01-August-31,0.09
+275,Wes,Viti,135676.0301,August-01-August-31,0.09
+276,j1EGWDB,v1EGWDB,71457.7888,August-01-August-31,0.09
+277,Arden,Requestor,94260.8591,August-01-August-31,0.09
+278,Test,Time,76930.9337,August-01-August-31,0.09
+279,Integration,Test,83872.0964,August-01-August-31,0.09
+280,Soham,Dave,170567.686,August-01-August-31,0.09
+281,Raston,Nga,97222.1458,August-01-August-31,0.09
+282,j1GYWHX,v1GYWHX,118407.6759,August-01-August-31,0.09
+283,j1OSMOO,v1OSMOO,120371.9471,August-01-August-31,0.09
+284,Malisa,Mnt Requestor,66636.7127,August-01-August-31,0.09
+285,Michael,McCosker,116067.7272,August-01-August-31,0.09
+286,CharlieC,Charlie,38428.503,August-01-August-31,0.09
+287,Indy,Sehra,149939.3382,August-01-August-31,0.09
+288,j1SOTYC,v1SOTYC,130411.187,August-01-August-31,0.09
+289,Mayuri,Goyani,22237.9254,August-01-August-31,0.09
+290,j1HKQHL,v1HKQHL,25956.0711,August-01-August-31,0.09
+291,l3,17,45066.5841,August-01-August-31,0.09
+292,Ben,Moller,129464.712,August-01-August-31,0.09
+293,Darren,Burgess,170123.8131,August-01-August-31,0.09
+294,Faiyaz,ahmad,120224.9342,August-01-August-31,0.09
+295,Maitland,Cameron,72753.2366,August-01-August-31,0.09
+296,Belinda,Gavin,147091.3853,August-01-August-31,0.09
+297,Patrick ,Madigan,175197.2219,August-01-August-31,0.09
+298,j1VBNIY,v1VBNIY,92711.9584,August-01-August-31,0.09
+299,Michael,McCosker,81968.1315,August-01-August-31,0.09
+300,Charlie,Hart,113704.7873,August-01-August-31,0.09
+301,Low,Key,142619.5467,August-01-August-31,0.09
+302,BobB,Bob,29983.3768,August-01-August-31,0.09
+303,Marlene,Roux,28058.2487,August-01-August-31,0.09
+304,Reniuka,Ranaweera,32341.1182,August-01-August-31,0.09
+305,Sekhar,Vanka,59530.8499,August-01-August-31,0.09
+306,Lego,Mania,20630.8999,August-01-August-31,0.09
+307,Dilhan,Rahubadde Kankanange,68561.9547,August-01-August-31,0.09
+308,Danesh,Chacko,100917.0787,August-01-August-31,0.09
+309,Brad,Campbell,118899.5344,August-01-August-31,0.09
+310,D,Burgess,111746.4411,August-01-August-31,0.09
+311,Iron,Man,22033.607,August-01-August-31,0.09
+312,j1ZBCXT,v1ZBCXT,80928.7167,August-01-August-31,0.09
+313,j1OPASW,v1OPASW,158542.7674,August-01-August-31,0.09
+314,j1AWUNN,v1AWUNN,45927.6919,August-01-August-31,0.09
+315,James,Esson,60010.1625,August-01-August-31,0.09
+316,j1IFTNJ,v1IFTNJ,144267.7416,August-01-August-31,0.09
+317,j1OLFBY,v1OLFBY,37308.2256,August-01-August-31,0.09
+318,E,Eve,59737.9079,August-01-August-31,0.09
+319,nbrent+SSO@assetic.com,nbrent+SSO@assetic.com,168764.868,August-01-August-31,0.09
+320,Siyin,Yand,160610.621,August-01-August-31,0.09
+321,Jerry,Chang,116758.5061,August-01-August-31,0.09
+322,Bridget,Jackson,83960.6723,August-01-August-31,0.09
+323,Supervisor,Mntc,51527.8483,August-01-August-31,0.09
+324,Sarah,Kimber,149757.2298,August-01-August-31,0.09
+325,Malisa,Mnt WO Gatekeeper,90202.6089,August-01-August-31,0.09
+326,Alice,Bob,145741.36,August-01-August-31,0.09
+327,Maintenance,Technician,116098.9786,August-01-August-31,0.09
+328,Carol,Dave,125270.8176,August-01-August-31,0.09
+329,j1RKNFQ,v1RKNFQ,98057.1574,August-01-August-31,0.09
+330,Aquilina,Gopiao,96473.3392,August-01-August-31,0.09
+331,Chris,Komodromos,170195.2288,August-01-August-31,0.09
+332,Suzanne,Sanders,57556.1313,August-01-August-31,0.09
+333,Andrew,Cox,83194.975,August-01-August-31,0.09
+334,Chris,Komodromos,63306.4863,August-01-August-31,0.09
+335,Sekhar,Mnt,48947.5116,August-01-August-31,0.09
+336,RenukaDC,Ranaweera,36818.1037,August-01-August-31,0.09
+337,Integration,Test,19247.989,August-01-August-31,0.09
+338,Nicola,Daaboul,129785.6388,August-01-August-31,0.09
+339,Joel,Brakey,87184.2319,August-01-August-31,0.09
+340,j1GLXDN,v1GLXDN,28564.2482,August-01-August-31,0.09
+341,Tony ,Rogers,25268.5504,August-01-August-31,0.09
+342,Lynda,Curtis ,22650.012,August-01-August-31,0.09
+343,deepthi,kotte,19444.4142,August-01-August-31,0.09
+344,Malisa,Mnt WR Gatekeeper,173272.0397,August-01-August-31,0.09
+345,j1EHJHH,v1EHJHH,142026.9608,August-01-August-31,0.09
+346,j1BWLEI,v1BWLEI,172318.6898,August-01-August-31,0.09
+347,Russell,Ormston,93512.5718,August-01-August-31,0.09
+348,Andy,Boulton,94606.7944,August-01-August-31,0.09
+349,Le,Nguyen,174496.2617,August-01-August-31,0.09
+350,Kevin,Wilton,84660.9304,August-01-August-31,0.09
+351,Minh,Api Test,43815.8719,August-01-August-31,0.09
+352,Data,Collector,109096.5733,August-01-August-31,0.09
+353,chifley,cole,72035.2555,August-01-August-31,0.09
+354,Peter,Awad,176886.5629,August-01-August-31,0.09
+355,Ursula,Gleeson,164327.0529,August-01-August-31,0.09
+356,Kevin,Wilton Alpaca,110975.5806,August-01-August-31,0.09
+357,Tristan,Rogers,43896.7493,August-01-August-31,0.09
+358,Brad,Campbell,30557.0096,August-01-August-31,0.09
+359,Tim,Provis,165094.8052,August-01-August-31,0.09
+360,Team,ASMP,67803.0021,August-01-August-31,0.09
+361,Tristan,Rogers,149730.5999,August-01-August-31,0.09
+362,Daria,Roschupkin,41243.9981,August-01-August-31,0.09
+363,Danesh,Chacko,63028.1959,August-01-August-31,0.09
+364,Jerry123,Chang,173408.9902,August-01-August-31,0.09
+365,Malisa,Mnt Supervisor,173960.3681,August-01-August-31,0.09
+366,Isy,N,169574.8752,August-01-August-31,0.09
+367,Darren,B,145993.2765,August-01-August-31,0.09
+368,Tomasz,Kasprowicz,41241.7617,August-01-August-31,0.09
+369,Craig,Searle,74228.9841,August-01-August-31,0.09
+370,Peter,Simcisko,67419.6406,August-01-August-31,0.09
+371,Krunal,Vansadia,96411.2554,August-01-August-31,0.09
+372,j1VOPAT,v1VOPAT,99797.3601,August-01-August-31,0.09
+373,Wesley,Viti,29753.0395,August-01-August-31,0.09
+374,Kieran,Shirey,155373.1219,August-01-August-31,0.09
+375,Malorie,Kincaid,21606.4963,August-01-August-31,0.09
+376,Jerry,Chang,109913.1206,August-01-August-31,0.09
+377,Mobile,Test,142746.1191,August-01-August-31,0.09
+378,Simon,Goss,41991.2385,August-01-August-31,0.09
+379,Chamara,Narangoda,87717.8402,August-01-August-31,0.09
+380,j1LIMAH,v1LIMAH,132615.4907,August-01-August-31,0.09
+381,charlie,hart,57923.9377,August-01-August-31,0.09
+382,Josh ,Coom,35773.2214,August-01-August-31,0.09
+383,Data,Collector,149094.2987,August-01-August-31,0.09
+384,not,confirmed,134151.8345,August-01-August-31,0.09
+385,Lawrie,George,43476.2813,August-01-August-31,0.09
+386,Grace ,Madigan,120925.9079,August-01-August-31,0.09
+387,j1WHVZJ,v1WHVZJ,132200.7005,August-01-August-31,0.09
+388,Arden,Yang,118225.784,August-01-August-31,0.09
+389,Malisa,Mnt Scheduler,176526.8235,August-01-August-31,0.09
+390,James,Burns,23956.7702,August-01-August-31,0.09
+391,test,tash,58203.3856,August-01-August-31,0.09
+392,Sean,Ghotbi,39146.6225,August-01-August-31,0.09
+393,Natasha,Test,165122.9606,August-01-August-31,0.09
+394,Ashay,Prabhu,42174.9404,August-01-August-31,0.09
+395,Arden,Yang,21505.8253,August-01-August-31,0.09
+396,j1XDSYP,v1XDSYP,125004.3102,August-01-August-31,0.09
+397,not,confirmed,56504.08,August-01-August-31,0.09
+398,David,Hobson,51507.4743,August-01-August-31,0.09
+399,David,Robinson,70025.1365,August-01-August-31,0.09
+400,no,assets,177603.2648,August-01-August-31,0.09
+401,j1IWRKS,v1IWRKS,173940.9194,August-01-August-31,0.09
+402,Jennifer,Balsara,156894.8076,August-01-August-31,0.09
+403,j1LCLBZ,v1LCLBZ,82651.2846,August-01-August-31,0.09
+404,j1TPCNO,v1TPCNO,86572.0052,August-01-August-31,0.09
+405,Malisa,Ples,166906.1771,August-01-August-31,0.09
+406,Stewart,Tremain,70814.8749,August-01-August-31,0.09
+407,Malisa,Mnt Asset Engineer,159355.8481,August-01-August-31,0.09
+408,Nelson,Kincaid,80334.6208,August-01-August-31,0.09
+409,Blah,Blah,67605.5646,August-01-August-31,0.09
+410,Brad,Lyons,79023.9655,August-01-August-31,0.09
+411,j1ICSNN,v1ICSNN,174303.1389,August-01-August-31,0.09
+412,Malisa,Mnt Planner,130443.803,August-01-August-31,0.09
+413,j1BMADT,v1BMADT,111309.6032,August-01-August-31,0.09
+414,Lucy,Risbey,147216.612,August-01-August-31,0.09
+415,Assetic,Support,60154.2554,August-01-August-31,0.09
+416,Bhavin,Shah,165121.446,August-01-August-31,0.09
+417,David,Robinson,141144.4686,August-01-August-31,0.09
+418,Tanri,Suryati,30358.0099,August-01-August-31,0.09
+419,Malisa,Mnt Manager,34356.6489,August-01-August-31,0.09
+420,j1SRBEZ,v1SRBEZ,62709.2198,August-01-August-31,0.09
+421,Dianne,Mackenzie,30476.1573,August-01-August-31,0.09
+422,Ali,Rizvi,108253.132,August-01-August-31,0.09
+423,Rod,Lovely,107837.1931,August-01-August-31,0.09
+424,Bimal,Kaluarachchi,34426.5745,August-01-August-31,0.09
+425,Marc,Hoare,154621.298,August-01-August-31,0.09
+426,Emma ,Tipple,165826.7716,August-01-August-31,0.09
+427,Integration,Integration,23269.9692,August-01-August-31,0.09
+428,Josh,Schwarz,86869.5358,August-01-August-31,0.09
+429,Malisa,Mnt Coordinator,22537.7767,August-01-August-31,0.09
+430,Peter,Silva,158080.2809,August-01-August-31,0.09
+431,j1WTFVR,v1WTFVR,56788.0795,August-01-August-31,0.09
+432,Rohan,Robertson,115699.5596,August-01-August-31,0.09
+433,Ming Zhi,Lei,66133.5647,August-01-August-31,0.09
+434,Lisa,Mulcahy,127569.1496,August-01-August-31,0.09
+435,Robert,Turner,97445.0589,August-01-August-31,0.09
+436,Z,Alice,86517.8507,August-01-August-31,0.09
+437,Kevin,Ward,122254.0816,August-01-August-31,0.09
+438,j1QUBSF,v1QUBSF,171716.8609,August-01-August-31,0.09
+439,j1BBHSX,v1BBHSX,149822.0645,August-01-August-31,0.09
+440,Avesh,Maharaj,53959.7451,August-01-August-31,0.09
+441,Rosa ,Grez ,126332.5368,August-01-August-31,0.09
+442,James,Foo,127783.4538,August-01-August-31,0.09
+443,Janna,de Groot,79919.6636,August-01-August-31,0.09
+444,Glenn,Angus,160247.9615,August-01-August-31,0.09
+445,Matthew,Riordan,57480.8218,August-01-August-31,0.09
+446,Sam,Truong,112660.2294,August-01-August-31,0.09
+447,Tony,Blefari,48858.6866,August-01-August-31,0.09
+448,Ryen,Tarbet,50312.7498,August-01-August-31,0.09
+449,Catherine,Mallon,86987.6941,August-01-August-31,0.09
+450,Natasha,Brent,104000.226,August-01-August-31,0.09
+451,Luke ,Davies,79038.0527,August-01-August-31,0.09
+452,Nelson,Kincaid,65189.5903,August-01-August-31,0.09
+453,Andrew,Cox,70833.7987,August-01-August-31,0.09
+454,Kevin,Wilton (maint),140600.2276,August-01-August-31,0.09
+455,ban,Nawa,148499.7466,August-01-August-31,0.09
+456,j1BFSNQ,v1BFSNQ,140698.0552,August-01-August-31,0.09
+457,ben,test,77991.0411,August-01-August-31,0.09
+458,j1PALLT,v1PALLT,111861.0451,August-01-August-31,0.09
+459,Michael,M,145332.1073,August-01-August-31,0.09
+460,j1JUUJK,v1JUUJK,49077.406,August-01-August-31,0.09
+461,test,runner,115390.7131,August-01-August-31,0.09
+462,Mark,Nowalinski,87721.3524,August-01-August-31,0.09
+463,Chints,Accounting,74434.6279,August-01-August-31,0.09
+464,Wayne,Huggard,91009.087,August-01-August-31,0.09
+465,David,Simpson,51741.5565,August-01-August-31,0.09
+466,j1XZTIN,v1XZTIN,129680.5262,August-01-August-31,0.09
+467,Rebecca,Palmer,151177.9667,August-01-August-31,0.09
+468,Kunbo,Mao,24848.2596,August-01-August-31,0.09
+469,B,Alice,138707.4032,August-01-August-31,0.09
+470,RenukaAO,Ranaweera,114992.242,August-01-August-31,0.09
+471,David,Howard,140839.0052,August-01-August-31,0.09
+472,Coordinator,Mntc,179218.3052,August-01-August-31,0.09
+473,Deepthi,Kotte,131574.5155,August-01-August-31,0.09
+474,Renuka,Ranaweera,102217.6667,August-01-August-31,0.09
+475,Malisa,Plesa,98364.792,August-01-August-31,0.09
+476,Tushari,de Silva,167170.9649,August-01-August-31,0.09
+477,j1WSKGP,v1WSKGP,36760.4533,August-01-August-31,0.09
+478,j1FIGYT,v1FIGYT,150289.377,August-01-August-31,0.09
+479,j1FXYSI,v1FXYSI,137165.5301,August-01-August-31,0.09
+480,Tai,Vu,54959.5245,August-01-August-31,0.09
+481,Malisa,Mnt Technician,169301.0372,August-01-August-31,0.09
+482,j1GOAYT,v1GOAYT,177626.6174,August-01-August-31,0.09
+483,Chintan,Shah,38229.9805,August-01-August-31,0.09
+484,Sekhar,Vanka,126270.0553,August-01-August-31,0.09
+485,j1JGFSN,v1JGFSN,174660.3398,August-01-August-31,0.09
+486,Tomasz,Imanski-Kasprowicz,152491.538,August-01-August-31,0.09
+487,DaveD,Dave,58476.6756,August-01-August-31,0.09
+488,not,confirmed,140908.7692,August-01-August-31,0.09
+489,Vivian,Chi,25113.824,August-01-August-31,0.09
+490,Luke,McCosker,170842.8173,August-01-August-31,0.09
+491,Andrew,Wesley,112872.6196,August-01-August-31,0.09
+492,Team,AAA,33834.6512,August-01-August-31,0.09
+493,j1SHFWB,v1SHFWB,136555.4019,August-01-August-31,0.09
+494,Jan,Van Den Driesen,77273.0609,August-01-August-31,0.09
+495,Dazza,Burgo1,120699.1037,August-01-August-31,0.09
+496,j1NYURD,v1NYURD,29676.341,August-01-August-31,0.09
+497,Natasha,Brent,92284.3989,August-01-August-31,0.09
+498,SAML,SAML,30392.9764,August-01-August-31,0.09
+250,Agusti,Lung,145745.2983,August-01-August-31,0.09
+251,M,Test 1,173621.1428,August-01-August-31,0.09
+252,Gary,Holmes,88869.8239,August-01-August-31,0.09
+253,Dinesh,Tawaniya,67485.696,August-01-August-31,0.09
+254,j1TXWAT,v1TXWAT,52819.0135,August-01-August-31,0.09
+255,Dan,Kaloutsky,43637.9844,August-01-August-31,0.09
+256,j1UINJV,v1UINJV,41732.8864,August-01-August-31,0.09
+257,j1SWEFX,v1SWEFX,59750.4838,August-01-August-31,0.09
+258,Eve,Frank,155553.7646,August-01-August-31,0.09
+259,j1BZUUU,v1BZUUU,94517.3767,August-01-August-31,0.09
+260,Chifley,Cole,149925.5946,August-01-August-31,0.09
+261,Kate ,Klavins,124075.8479,August-01-August-31,0.09
+262,Minjie,Xie,152602.4609,August-01-August-31,0.09
+263,Marlene,Bekker,48784.7656,August-01-August-31,0.09
+264,Malisa,Mnt Admin,92116.4504,August-01-August-31,0.09
+265,Rebecca,Alcott,134227.9599,August-01-August-31,0.09
+266,Mark,Nowalinski,52790.4535,August-01-August-31,0.09
+267,Maddy,Abbott,167268.3925,August-01-August-31,0.09
+268,A,Alice,173970.6072,August-01-August-31,0.09
+269,Patrick,van de Sande,26047.8636,August-01-August-31,0.09
+270,Chris,Campbell,76327.5011,August-01-August-31,0.09
+271,j1HEXWI,v1HEXWI,123493.9199,August-01-August-31,0.09
+272,Felina,Coyle,46487.1011,August-01-August-31,0.09
+273,Liam ,Fleming,167953.7508,August-01-August-31,0.09
+274,Karen,Rogers,34307.4555,August-01-August-31,0.09
+275,Wes,Viti,135676.0301,August-01-August-31,0.09
+276,j1EGWDB,v1EGWDB,71457.7888,August-01-August-31,0.09
+277,Arden,Requestor,94260.8591,August-01-August-31,0.09
+278,Test,Time,76930.9337,August-01-August-31,0.09
+279,Integration,Test,83872.0964,August-01-August-31,0.09
+280,Soham,Dave,170567.686,August-01-August-31,0.09
+281,Raston,Nga,97222.1458,August-01-August-31,0.09
+282,j1GYWHX,v1GYWHX,118407.6759,August-01-August-31,0.09
+283,j1OSMOO,v1OSMOO,120371.9471,August-01-August-31,0.09
+284,Malisa,Mnt Requestor,66636.7127,August-01-August-31,0.09
+285,Michael,McCosker,116067.7272,August-01-August-31,0.09
+286,CharlieC,Charlie,38428.503,August-01-August-31,0.09
+287,Indy,Sehra,149939.3382,August-01-August-31,0.09
+288,j1SOTYC,v1SOTYC,130411.187,August-01-August-31,0.09
+289,Mayuri,Goyani,22237.9254,August-01-August-31,0.09
+290,j1HKQHL,v1HKQHL,25956.0711,August-01-August-31,0.09
+291,l3,17,45066.5841,August-01-August-31,0.09
+292,Ben,Moller,129464.712,August-01-August-31,0.09
+293,Darren,Burgess,170123.8131,August-01-August-31,0.09
+294,Faiyaz,ahmad,120224.9342,August-01-August-31,0.09
+295,Maitland,Cameron,72753.2366,August-01-August-31,0.09
+296,Belinda,Gavin,147091.3853,August-01-August-31,0.09
+297,Patrick ,Madigan,175197.2219,August-01-August-31,0.09
+298,j1VBNIY,v1VBNIY,92711.9584,August-01-August-31,0.09
+299,Michael,McCosker,81968.1315,August-01-August-31,0.09
+300,Charlie,Hart,113704.7873,August-01-August-31,0.09
+301,Low,Key,142619.5467,August-01-August-31,0.09
+302,BobB,Bob,29983.3768,August-01-August-31,0.09
+303,Marlene,Roux,28058.2487,August-01-August-31,0.09
+304,Reniuka,Ranaweera,32341.1182,August-01-August-31,0.09
+305,Sekhar,Vanka,59530.8499,August-01-August-31,0.09
+306,Lego,Mania,20630.8999,August-01-August-31,0.09
+307,Dilhan,Rahubadde Kankanange,68561.9547,August-01-August-31,0.09
+308,Danesh,Chacko,100917.0787,August-01-August-31,0.09
+309,Brad,Campbell,118899.5344,August-01-August-31,0.09
+310,D,Burgess,111746.4411,August-01-August-31,0.09
+311,Iron,Man,22033.607,August-01-August-31,0.09
+312,j1ZBCXT,v1ZBCXT,80928.7167,August-01-August-31,0.09
+313,j1OPASW,v1OPASW,158542.7674,August-01-August-31,0.09
+314,j1AWUNN,v1AWUNN,45927.6919,August-01-August-31,0.09
+315,James,Esson,60010.1625,August-01-August-31,0.09
+316,j1IFTNJ,v1IFTNJ,144267.7416,August-01-August-31,0.09
+317,j1OLFBY,v1OLFBY,37308.2256,August-01-August-31,0.09
+318,E,Eve,59737.9079,August-01-August-31,0.09
+319,nbrent+SSO@assetic.com,nbrent+SSO@assetic.com,168764.868,August-01-August-31,0.09
+320,Siyin,Yand,160610.621,August-01-August-31,0.09
+321,Jerry,Chang,116758.5061,August-01-August-31,0.09
+322,Bridget,Jackson,83960.6723,August-01-August-31,0.09
+323,Supervisor,Mntc,51527.8483,August-01-August-31,0.09
+324,Sarah,Kimber,149757.2298,August-01-August-31,0.09
+325,Malisa,Mnt WO Gatekeeper,90202.6089,August-01-August-31,0.09
+326,Alice,Bob,145741.36,August-01-August-31,0.09
+327,Maintenance,Technician,116098.9786,August-01-August-31,0.09
+328,Carol,Dave,125270.8176,August-01-August-31,0.09
+329,j1RKNFQ,v1RKNFQ,98057.1574,August-01-August-31,0.09
+330,Aquilina,Gopiao,96473.3392,August-01-August-31,0.09
+331,Chris,Komodromos,170195.2288,August-01-August-31,0.09
+332,Suzanne,Sanders,57556.1313,August-01-August-31,0.09
+333,Andrew,Cox,83194.975,August-01-August-31,0.09
+334,Chris,Komodromos,63306.4863,August-01-August-31,0.09
+335,Sekhar,Mnt,48947.5116,August-01-August-31,0.09
+336,RenukaDC,Ranaweera,36818.1037,August-01-August-31,0.09
+337,Integration,Test,19247.989,August-01-August-31,0.09
+338,Nicola,Daaboul,129785.6388,August-01-August-31,0.09
+339,Joel,Brakey,87184.2319,August-01-August-31,0.09
+340,j1GLXDN,v1GLXDN,28564.2482,August-01-August-31,0.09
+341,Tony ,Rogers,25268.5504,August-01-August-31,0.09
+342,Lynda,Curtis ,22650.012,August-01-August-31,0.09
+343,deepthi,kotte,19444.4142,August-01-August-31,0.09
+344,Malisa,Mnt WR Gatekeeper,173272.0397,August-01-August-31,0.09
+345,j1EHJHH,v1EHJHH,142026.9608,August-01-August-31,0.09
+346,j1BWLEI,v1BWLEI,172318.6898,August-01-August-31,0.09
+347,Russell,Ormston,93512.5718,August-01-August-31,0.09
+348,Andy,Boulton,94606.7944,August-01-August-31,0.09
+349,Le,Nguyen,174496.2617,August-01-August-31,0.09
+350,Kevin,Wilton,84660.9304,August-01-August-31,0.09
+351,Minh,Api Test,43815.8719,August-01-August-31,0.09
+352,Data,Collector,109096.5733,August-01-August-31,0.09
+353,chifley,cole,72035.2555,August-01-August-31,0.09
+354,Peter,Awad,176886.5629,August-01-August-31,0.09
+355,Ursula,Gleeson,164327.0529,August-01-August-31,0.09
+356,Kevin,Wilton Alpaca,110975.5806,August-01-August-31,0.09
+357,Tristan,Rogers,43896.7493,August-01-August-31,0.09
+358,Brad,Campbell,30557.0096,August-01-August-31,0.09
+359,Tim,Provis,165094.8052,August-01-August-31,0.09
+360,Team,ASMP,67803.0021,August-01-August-31,0.09
+361,Tristan,Rogers,149730.5999,August-01-August-31,0.09
+362,Daria,Roschupkin,41243.9981,August-01-August-31,0.09
+363,Danesh,Chacko,63028.1959,August-01-August-31,0.09
+364,Jerry123,Chang,173408.9902,August-01-August-31,0.09
+365,Malisa,Mnt Supervisor,173960.3681,August-01-August-31,0.09
+366,Isy,N,169574.8752,August-01-August-31,0.09
+367,Darren,B,145993.2765,August-01-August-31,0.09
+368,Tomasz,Kasprowicz,41241.7617,August-01-August-31,0.09
+369,Craig,Searle,74228.9841,August-01-August-31,0.09
+370,Peter,Simcisko,67419.6406,August-01-August-31,0.09
+371,Krunal,Vansadia,96411.2554,August-01-August-31,0.09
+372,j1VOPAT,v1VOPAT,99797.3601,August-01-August-31,0.09
+373,Wesley,Viti,29753.0395,August-01-August-31,0.09
+374,Kieran,Shirey,155373.1219,August-01-August-31,0.09
+375,Malorie,Kincaid,21606.4963,August-01-August-31,0.09
+376,Jerry,Chang,109913.1206,August-01-August-31,0.09
+377,Mobile,Test,142746.1191,August-01-August-31,0.09
+378,Simon,Goss,41991.2385,August-01-August-31,0.09
+379,Chamara,Narangoda,87717.8402,August-01-August-31,0.09
+380,j1LIMAH,v1LIMAH,132615.4907,August-01-August-31,0.09
+381,charlie,hart,57923.9377,August-01-August-31,0.09
+382,Josh ,Coom,35773.2214,August-01-August-31,0.09
+383,Data,Collector,149094.2987,August-01-August-31,0.09
+384,not,confirmed,134151.8345,August-01-August-31,0.09
+385,Lawrie,George,43476.2813,August-01-August-31,0.09
+386,Grace ,Madigan,120925.9079,August-01-August-31,0.09
+387,j1WHVZJ,v1WHVZJ,132200.7005,August-01-August-31,0.09
+388,Arden,Yang,118225.784,August-01-August-31,0.09
+389,Malisa,Mnt Scheduler,176526.8235,August-01-August-31,0.09
+390,James,Burns,23956.7702,August-01-August-31,0.09
+391,test,tash,58203.3856,August-01-August-31,0.09
+392,Sean,Ghotbi,39146.6225,August-01-August-31,0.09
+393,Natasha,Test,165122.9606,August-01-August-31,0.09
+394,Ashay,Prabhu,42174.9404,August-01-August-31,0.09
+395,Arden,Yang,21505.8253,August-01-August-31,0.09
+396,j1XDSYP,v1XDSYP,125004.3102,August-01-August-31,0.09
+397,not,confirmed,56504.08,August-01-August-31,0.09
+398,David,Hobson,51507.4743,August-01-August-31,0.09
+399,David,Robinson,70025.1365,August-01-August-31,0.09
+400,no,assets,177603.2648,August-01-August-31,0.09
+401,j1IWRKS,v1IWRKS,173940.9194,August-01-August-31,0.09
+402,Jennifer,Balsara,156894.8076,August-01-August-31,0.09
+403,j1LCLBZ,v1LCLBZ,82651.2846,August-01-August-31,0.09
+404,j1TPCNO,v1TPCNO,86572.0052,August-01-August-31,0.09
+405,Malisa,Ples,166906.1771,August-01-August-31,0.09
+406,Stewart,Tremain,70814.8749,August-01-August-31,0.09
+407,Malisa,Mnt Asset Engineer,159355.8481,August-01-August-31,0.09
+408,Nelson,Kincaid,80334.6208,August-01-August-31,0.09
+409,Blah,Blah,67605.5646,August-01-August-31,0.09
+410,Brad,Lyons,79023.9655,August-01-August-31,0.09
+411,j1ICSNN,v1ICSNN,174303.1389,August-01-August-31,0.09
+412,Malisa,Mnt Planner,130443.803,August-01-August-31,0.09
+413,j1BMADT,v1BMADT,111309.6032,August-01-August-31,0.09
+414,Lucy,Risbey,147216.612,August-01-August-31,0.09
+415,Assetic,Support,60154.2554,August-01-August-31,0.09
+416,Bhavin,Shah,165121.446,August-01-August-31,0.09
+417,David,Robinson,141144.4686,August-01-August-31,0.09
+418,Tanri,Suryati,30358.0099,August-01-August-31,0.09
+419,Malisa,Mnt Manager,34356.6489,August-01-August-31,0.09
+420,j1SRBEZ,v1SRBEZ,62709.2198,August-01-August-31,0.09
+421,Dianne,Mackenzie,30476.1573,August-01-August-31,0.09
+422,Ali,Rizvi,108253.132,August-01-August-31,0.09
+423,Rod,Lovely,107837.1931,August-01-August-31,0.09
+424,Bimal,Kaluarachchi,34426.5745,August-01-August-31,0.09
+425,Marc,Hoare,154621.298,August-01-August-31,0.09
+426,Emma ,Tipple,165826.7716,August-01-August-31,0.09
+427,Integration,Integration,23269.9692,August-01-August-31,0.09
+428,Josh,Schwarz,86869.5358,August-01-August-31,0.09
+429,Malisa,Mnt Coordinator,22537.7767,August-01-August-31,0.09
+430,Peter,Silva,158080.2809,August-01-August-31,0.09
+431,j1WTFVR,v1WTFVR,56788.0795,August-01-August-31,0.09
+432,Rohan,Robertson,115699.5596,August-01-August-31,0.09
+433,Ming Zhi,Lei,66133.5647,August-01-August-31,0.09
+434,Lisa,Mulcahy,127569.1496,August-01-August-31,0.09
+435,Robert,Turner,97445.0589,August-01-August-31,0.09
+436,Z,Alice,86517.8507,August-01-August-31,0.09
+437,Kevin,Ward,122254.0816,August-01-August-31,0.09
+438,j1QUBSF,v1QUBSF,171716.8609,August-01-August-31,0.09
+439,j1BBHSX,v1BBHSX,149822.0645,August-01-August-31,0.09
+440,Avesh,Maharaj,53959.7451,August-01-August-31,0.09
+441,Rosa ,Grez ,126332.5368,August-01-August-31,0.09
+442,James,Foo,127783.4538,August-01-August-31,0.09
+443,Janna,de Groot,79919.6636,August-01-August-31,0.09
+444,Glenn,Angus,160247.9615,August-01-August-31,0.09
+445,Matthew,Riordan,57480.8218,August-01-August-31,0.09
+446,Sam,Truong,112660.2294,August-01-August-31,0.09
+447,Tony,Blefari,48858.6866,August-01-August-31,0.09
+448,Ryen,Tarbet,50312.7498,August-01-August-31,0.09
+449,Catherine,Mallon,86987.6941,August-01-August-31,0.09
+450,Natasha,Brent,104000.226,August-01-August-31,0.09
+451,Luke ,Davies,79038.0527,August-01-August-31,0.09
+452,Nelson,Kincaid,65189.5903,August-01-August-31,0.09
+453,Andrew,Cox,70833.7987,August-01-August-31,0.09
+454,Kevin,Wilton (maint),140600.2276,August-01-August-31,0.09
+455,ban,Nawa,148499.7466,August-01-August-31,0.09
+456,j1BFSNQ,v1BFSNQ,140698.0552,August-01-August-31,0.09
+457,ben,test,77991.0411,August-01-August-31,0.09
+458,j1PALLT,v1PALLT,111861.0451,August-01-August-31,0.09
+459,Michael,M,145332.1073,August-01-August-31,0.09
+460,j1JUUJK,v1JUUJK,49077.406,August-01-August-31,0.09
+461,test,runner,115390.7131,August-01-August-31,0.09
+462,Mark,Nowalinski,87721.3524,August-01-August-31,0.09
+463,Chints,Accounting,74434.6279,August-01-August-31,0.09
+464,Wayne,Huggard,91009.087,August-01-August-31,0.09
+465,David,Simpson,51741.5565,August-01-August-31,0.09
+466,j1XZTIN,v1XZTIN,129680.5262,August-01-August-31,0.09
+467,Rebecca,Palmer,151177.9667,August-01-August-31,0.09
+468,Kunbo,Mao,24848.2596,August-01-August-31,0.09
+469,B,Alice,138707.4032,August-01-August-31,0.09
+470,RenukaAO,Ranaweera,114992.242,August-01-August-31,0.09
+471,David,Howard,140839.0052,August-01-August-31,0.09
+472,Coordinator,Mntc,179218.3052,August-01-August-31,0.09
+473,Deepthi,Kotte,131574.5155,August-01-August-31,0.09
+474,Renuka,Ranaweera,102217.6667,August-01-August-31,0.09
+475,Malisa,Plesa,98364.792,August-01-August-31,0.09
+476,Tushari,de Silva,167170.9649,August-01-August-31,0.09
+477,j1WSKGP,v1WSKGP,36760.4533,August-01-August-31,0.09
+478,j1FIGYT,v1FIGYT,150289.377,August-01-August-31,0.09
+479,j1FXYSI,v1FXYSI,137165.5301,August-01-August-31,0.09
+480,Tai,Vu,54959.5245,August-01-August-31,0.09
+481,Malisa,Mnt Technician,169301.0372,August-01-August-31,0.09
+482,j1GOAYT,v1GOAYT,177626.6174,August-01-August-31,0.09
+483,Chintan,Shah,38229.9805,August-01-August-31,0.09
+484,Sekhar,Vanka,126270.0553,August-01-August-31,0.09
+485,j1JGFSN,v1JGFSN,174660.3398,August-01-August-31,0.09
+486,Tomasz,Imanski-Kasprowicz,152491.538,August-01-August-31,0.09
+487,DaveD,Dave,58476.6756,August-01-August-31,0.09
+488,not,confirmed,140908.7692,August-01-August-31,0.09
+489,Vivian,Chi,25113.824,August-01-August-31,0.09
+490,Luke,McCosker,170842.8173,August-01-August-31,0.09
+491,Andrew,Wesley,112872.6196,August-01-August-31,0.09
+492,Team,AAA,33834.6512,August-01-August-31,0.09
+493,j1SHFWB,v1SHFWB,136555.4019,August-01-August-31,0.09
+494,Jan,Van Den Driesen,77273.0609,August-01-August-31,0.09
+495,Dazza,Burgo1,120699.1037,August-01-August-31,0.09
+496,j1NYURD,v1NYURD,29676.341,August-01-August-31,0.09
+497,Natasha,Brent,92284.3989,August-01-August-31,0.09
+498,SAML,SAML,30392.9764,August-01-August-31,0.09
+250,Agusti,Lung,145745.2983,August-01-August-31,0.09
+251,M,Test 1,173621.1428,August-01-August-31,0.09
+252,Gary,Holmes,88869.8239,August-01-August-31,0.09
+253,Dinesh,Tawaniya,67485.696,August-01-August-31,0.09
+254,j1TXWAT,v1TXWAT,52819.0135,August-01-August-31,0.09
+255,Dan,Kaloutsky,43637.9844,August-01-August-31,0.09
+256,j1UINJV,v1UINJV,41732.8864,August-01-August-31,0.09
+257,j1SWEFX,v1SWEFX,59750.4838,August-01-August-31,0.09
+258,Eve,Frank,155553.7646,August-01-August-31,0.09
+259,j1BZUUU,v1BZUUU,94517.3767,August-01-August-31,0.09
+260,Chifley,Cole,149925.5946,August-01-August-31,0.09
+261,Kate ,Klavins,124075.8479,August-01-August-31,0.09
+262,Minjie,Xie,152602.4609,August-01-August-31,0.09
+263,Marlene,Bekker,48784.7656,August-01-August-31,0.09
