@@ -1,0 +1,25 @@
+.topMargin{
+  margin-top: 50px;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #2b542c;
+  margin: 1em 0;
+  padding: 0;
+}
+
+.form-control {
+  border:none
+}
+
+/* Define the default color for all the table rows */
+.hoverTable tr{
+  background: #fdfbff;
+}
+/* Define the hover highlight color for the table row */
+.hoverTable tr:hover {
+  background-color: #a888be;
+}

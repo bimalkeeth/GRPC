@@ -1,0 +1,46 @@
+
+<ng4-default-spinner></ng4-default-spinner>
+<div class="form-group row topMargin">
+  <label for="colFormLabelSm" class="col-sm-1 col-form-label col-form-label-sm">Select File</label>
+  <div class="col-sm-5 left">
+    <input #file type="file" class="form-control form-control-sm" id="colFormLabelSm" placeholder="col-form-label-sm" accept=".csv" multiple />
+  </div>
+  <div class="col-sm-2 left">
+    <button type="button" class="btn btn-primary" (click)="upload(file.files)">Process</button>
+  </div>
+</div>
+<hr/>
+<span *ngIf="payList">
+<table class='table ' [mfData]="payList" #mf="mfDataTable" [mfRowsOnPage]="20">
+  <thead>
+    <tr>
+      <th>Employee Id</th>
+      <th>Name</th>
+      <th>Pay Period</th>
+      <th>Gross Income</th>
+      <th>Tax</th>
+      <th>Super:</th>
+      <th>Net Income</th>
+    </tr>
+  </thead>
+  <tbody class="hoverTable">
+    <tr *ngFor="let slip of mf.data">
+      <td>{{slip.Id}}</td>
+      <td>{{slip.Name}}</td>
+      <td>{{slip.PayPeriod}}</td>
+      <td>{{slip.GrossIncome| currency:'':true:'1.2-2'}}</td>
+      <td>{{slip.IncomeTax| currency:'':true:'1.2-2'}}</td>
+      <td>{{slip.Super| currency:'':true:'1.2-2'}}</td>
+       <td>{{slip.NetIncome| currency:'':true:'1.2-2'}}</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+        <td colspan="4">
+            <mfBootstrapPaginator [rowsOnPageSet]="[100,200,500]"></mfBootstrapPaginator>
+        </td>
+    </tr>
+    </tfoot>
+
+</table>
+</span>
